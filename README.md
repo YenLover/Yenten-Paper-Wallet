@@ -1,5 +1,5 @@
 # Yenten-Paper-Wallet
-Paper Wallet Generator for Yenten. Create your own paper wallet in a few easy steps : Generate, Print and Fold!
+Paper Wallet Generator for Yenten (YTN). Create your own paper wallet in a few easy steps : Generate, Print and Fold!
 
 Run the code on github :
 https://YenLover.github.io/Yenten-Paper-Wallet/
