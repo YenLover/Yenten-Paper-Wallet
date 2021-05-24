@@ -37,7 +37,7 @@ function newytn(){
 	var address = getAddress(keys)
 
 	if (address != undefined) {
-		var addrurl = "https://stellarchain.io/address/"+address;
+		var addrurl = "https://ytn.ccore.online/search/"+address;
 		document.getElementById("address").innerHTML = address;
 		document.getElementById("secret").innerHTML = keys.toWIF();
 		document.getElementById("addr").href = addrurl;
